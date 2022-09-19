@@ -1,0 +1,2 @@
+# tsmas
+global sms
